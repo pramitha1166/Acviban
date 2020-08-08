@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="280dp"
         android:layout_height="77dp"
-        android:text="MAD reg 2020"
+        android:text="MAD reg 2020 SLIIT"
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
